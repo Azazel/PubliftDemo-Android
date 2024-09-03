@@ -37,19 +37,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".BannerActivity"
-            android:exported="true"
-            android:label="Banner Page"
-            android:theme="@style/Theme.PubliftDemo">
-        </activity>
-
-        <activity
-            android:name=".ListActivity"
-            android:exported="true"
-            android:label="List Page"
-            android:theme="@style/Theme.PubliftDemo">
-        </activity>
     </application>
 
 </manifest>

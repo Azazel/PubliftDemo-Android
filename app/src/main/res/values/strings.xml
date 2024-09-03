@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Publift Demo</string>
+    <string name="single_banner">Single Banner</string>
+    <string name="scrolling_banners">Scrolling Banners</string>
+    <string name="publift_demo">Publift Demo</string>
+    <string name="element_text">Text goes here</string>
+</resources>
